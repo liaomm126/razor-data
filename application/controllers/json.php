@@ -1,0 +1,42 @@
+{
+"app_info":{
+  "key":"f785b662c7f9c3fd4eafe95eea3eea55",
+  "channel":"android_sp0",
+  "platform":1,
+  "version":"0.0.5",
+  "package_name":"com.benlei.sdk"
+  },
+"device_info":{
+  "device_id":"885663026955809",
+  "device_model":"MI 5",
+  "device_board":"MSM8960",
+  "device_brand":"Xiaomi",
+  "device_manutime":"1466012309000",
+  "device_manufacturer":"Xiaomi",
+  "device_manuid":"LRX22G", 
+  "device_name":"aries",
+  "cpu":"ARMv7 Processor rev 0 (v7l) ",
+  "resolution":"720x1280",
+  "mac_address":"f8:a4:5f:34:cb:15",
+  "os_version":"5.0.2",
+  "os_language":"zh",
+  "os_timezone":"GMT+08:00",
+  "location":""
+  },
+"timestamp":{
+  "activate_ts":1467190274000,
+  "register_ts":1467190274000,
+  "create_role_ts":1467190274000,
+  "login_ts":1467190274000
+  },
+"sessions":[
+  {"id":"60e6cb452ea19c2b6e767c6dd4f6e22d","start_time":1466496247699,"end_time":1466496321190,"duration":73491},
+  {"id":"32e7aaa6033b7503070640f4071d21c9","start_time":1466496449957,"end_time":1466496558377,"duration":108420}
+  ],
+"user_info":{
+  "uid":"5",
+  "sid":"1",
+  "rid":"1",
+  "lv":"4"
+  }
+}
